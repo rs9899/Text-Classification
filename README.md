@@ -25,3 +25,9 @@ If you used this environment for your experiments or found it helpful, consider 
   
 }
 </pre>
+
+#### Addition by Rupesh ([**@rs9899**](https://github.com/rs9899))
+
+* Changed in CNN.ipynb by adding a data folder 
+* Add a glove.100d file and its path at the correct place.
+* Change the architecture to try as will and the code is capable to run over jupyter server
